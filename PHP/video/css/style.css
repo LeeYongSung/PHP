@@ -1,0 +1,11 @@
+#myVideo {width: 100%; height: 500px;}
+
+
+
+.none {
+    display: none;
+}
+
+.active {
+    display: block;
+}
